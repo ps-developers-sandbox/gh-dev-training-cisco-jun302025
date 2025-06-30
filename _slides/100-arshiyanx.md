@@ -5,5 +5,5 @@ title: "Welcome to our slide deckk!"
 
 Caption here
 
-![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
+![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
