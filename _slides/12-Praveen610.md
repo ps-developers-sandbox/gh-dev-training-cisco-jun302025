@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Welcome to Cisco
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
